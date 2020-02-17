@@ -52,7 +52,6 @@ antisamy-markup-formatter:latest
 variant:latest
 blueocean:latest
 pipeline-github:latest
-subversion:latest
 chef-cookbook-pipeline:latest
 junit:latest
 maven-plugin:latest
@@ -121,7 +120,6 @@ blueocean-display-url:latest
 build-timeout:latest
 xunit:latest
 credentials-binding:latest
-convert-to-pipeline:latest
 ant:latest
 blueocean-commons:latest
 blueocean-jira:latest
