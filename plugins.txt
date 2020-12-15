@@ -128,7 +128,6 @@ momentjs:latest
 ivy:latest
 branch-api:latest
 gradle:latest
-tfs:latest
 pipeline-rest-api:latest
 jira:latest
 mapdb-api:latest
